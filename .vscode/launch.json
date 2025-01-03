@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestApiWithSpringBootAndJavaApplication<rest-api-with-spring-boot-and-java>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.erudio.rest_api_with_spring_boot_and_java.RestApiWithSpringBootAndJavaApplication",
+            "projectName": "rest-api-with-spring-boot-and-java",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
